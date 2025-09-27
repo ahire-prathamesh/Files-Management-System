@@ -1,7 +1,7 @@
 **📌 Files-Management-System**\
 A web-based Flask application that allows users to upload, view, download, update, and delete files with a user-friendly interface.
 
-**🎯 Purpose**:\
+**🎯 Purpose**:\ 
 Enables users to manage files efficiently through a web interface, supporting multiple file types (images, PDFs, and others) with previews and download options, while storing data securely in SQL Server.
 
 **🛠 Tech Stack**:\
